@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-label="Invisible Middle Intelligence Layer architecture map">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#05070d"/><stop offset="55%" stop-color="#111827"/><stop offset="100%" stop-color="#071411"/></linearGradient>
+    <linearGradient id="holo" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#d8fff2"/><stop offset="24%" stop-color="#b9dcff"/><stop offset="50%" stop-color="#e0c7ff"/><stop offset="76%" stop-color="#c1ffe4"/><stop offset="100%" stop-color="#fff2c2"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.title{font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:850;font-size:44px;fill:#f7fffb}.sub{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:20px;fill:#bcd7cf}.boxTitle{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:20px;font-weight:800;fill:#f7fffb}.boxText{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:15px;fill:#cfe3dc}.small{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13px;fill:#94aaa3}</style>
+  </defs>
+  <rect width="1400" height="720" rx="34" fill="url(#bg)"/>
+  <path d="M62 606 C300 438, 388 660, 642 460 S980 294, 1316 416" fill="none" stroke="url(#holo)" stroke-width="2.4" opacity=".62" filter="url(#glow)"/>
+  <text x="70" y="78" class="title">Invisible Middle Intelligence Layer</text>
+  <text x="72" y="116" class="sub">From visible signal to structural interpretation, hidden compensation, and flourishing restoration.</text>
+  <g transform="translate(70 170)">
+    <rect width="235" height="120" rx="22" fill="#0b1318" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Signal Intake</text><text x="24" y="68" class="boxText">Behavioural • Workflow</text><text x="24" y="93" class="boxText">Communication • AI • Governance</text>
+  </g>
+  <g transform="translate(330 170)">
+    <rect width="235" height="120" rx="22" fill="#0b1318" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Contextual Interpretation</text><text x="24" y="68" class="boxText">Trust • Closure • Ownership</text><text x="24" y="93" class="boxText">Thresholds • Predictability</text>
+  </g>
+  <g transform="translate(590 170)">
+    <rect width="235" height="120" rx="22" fill="#0b1318" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Structural Inference</text><text x="24" y="68" class="boxText">What condition is forming?</text><text x="24" y="93" class="boxText">What is system-held?</text>
+  </g>
+  <g transform="translate(850 170)">
+    <rect width="235" height="120" rx="22" fill="#0b1318" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Compensation Map</text><text x="24" y="68" class="boxText">Who carries the hidden work?</text><text x="24" y="93" class="boxText">Where did burden move?</text>
+  </g>
+  <g transform="translate(1110 170)">
+    <rect width="235" height="120" rx="22" fill="#0b1318" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Flourishing Assessment</text><text x="24" y="68" class="boxText">Agency • Trust • Continuity</text><text x="24" y="93" class="boxText">Participation • Recovery</text>
+  </g>
+  <g stroke="url(#holo)" stroke-width="2" opacity=".72" filter="url(#glow)"><path d="M305 230 H330"/><path d="M565 230 H590"/><path d="M825 230 H850"/><path d="M1085 230 H1110"/></g>
+  <g transform="translate(170 395)">
+    <rect width="310" height="120" rx="22" fill="#0c1714" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Evidence Surface</text><text x="24" y="68" class="boxText">Strength • Confidence • Pattern</text><text x="24" y="93" class="boxText">Temporal and cross-domain support</text>
+  </g>
+  <g transform="translate(545 395)">
+    <rect width="310" height="120" rx="22" fill="#0c1714" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Dashboard + Report</text><text x="24" y="68" class="boxText">Visibility surface, not the layer</text><text x="24" y="93" class="boxText">Buyer-readable interpretation</text>
+  </g>
+  <g transform="translate(920 395)">
+    <rect width="310" height="120" rx="22" fill="#0c1714" stroke="url(#holo)" opacity=".96"/>
+    <text x="24" y="38" class="boxTitle">Rebalance Guidance</text><text x="24" y="68" class="boxText">Structural restoration</text><text x="24" y="93" class="boxText">Not behavioural suppression</text>
+  </g>
+  <g stroke="url(#holo)" stroke-width="2" opacity=".72" filter="url(#glow)"><path d="M480 455 H545"/><path d="M855 455 H920"/></g>
+  <text x="74" y="628" class="small">Boundary: public diagnostic intelligence layer only. No protected substrate math, scoring law, kernelization, or live enforcement substrate exposed.</text>
+  <text x="74" y="660" class="small">Core question: Where is the system asking humans to compensate for missing structure?</text>
+</svg>
