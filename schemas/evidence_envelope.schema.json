@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/invisible-middle/evidence_envelope.schema.json",
+  "title": "Invisible Middle Evidence Envelope",
+  "type": "object",
+  "required": ["case_id", "signal_family", "observed_signal", "evidence_strength", "inferred_structural_condition"],
+  "properties": {
+    "case_id": {"type": "string"},
+    "signal_family": {"type": "string"},
+    "observed_signal": {"type": "string"},
+    "context": {
+      "type": "object",
+      "properties": {
+        "workflow_condition": {"type": "string"},
+        "threshold_condition": {"type": "string"},
+        "closure_condition": {"type": "string"},
+        "ownership_condition": {"type": "string"}
+      }
+    },
+    "evidence_sources": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "temporal_pattern": {"type": "string"},
+    "evidence_strength": {
+      "type": "string",
+      "enum": ["informational", "emerging", "moderate", "strong", "critical"]
+    },
+    "inferred_structural_condition": {"type": "string"},
+    "confidence_basis": {"type": "string"},
+    "recommended_response": {"type": "string"}
+  },
+  "additionalProperties": true
+}
