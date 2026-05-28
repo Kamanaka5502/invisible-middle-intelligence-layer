@@ -1,0 +1,55 @@
+{
+  "case_id": "IM-AI-001",
+  "case_type": "live_ai_drafting_assistant",
+  "system_reviewed": "AI-supported workplace drafting workflow",
+  "claimed_benefit": "Faster output generation and operational efficiency",
+  "visible_completion": "AI-generated document delivered rapidly",
+  "signals": [
+    {
+      "family": "ai_interaction",
+      "signal": "repeated human override",
+      "description": "User repeatedly rewrites AI output before release."
+    },
+    {
+      "family": "behavioural",
+      "signal": "repeated checking",
+      "description": "User repeatedly validates wording, facts, and authority implications."
+    },
+    {
+      "family": "communication",
+      "signal": "confidence uncertainty",
+      "description": "User expresses concern about whether the output is safe to send under their authority."
+    },
+    {
+      "family": "workflow",
+      "signal": "verification loop",
+      "description": "AI acceleration creates additional human review cycles instead of reducing effort."
+    }
+  ],
+  "contextual_interpretation": {
+    "primary_structural_condition": "ai_burden_transfer",
+    "secondary_conditions": ["trust_instability", "authority_burden", "closure_weakness"],
+    "interpretive_summary": "The workflow accelerates visible output production while transferring verification, trust repair, interpretive monitoring, and release authority burden into the human operator."
+  },
+  "hidden_compensation_mapping": {
+    "employee": ["verification burden", "authority risk", "interpretive monitoring", "trust repair"],
+    "manager": ["review burden", "liability uncertainty"],
+    "organisation": ["apparent productivity masking hidden afterwork"]
+  },
+  "burden_domains": [
+    "verification_burden",
+    "authority_burden",
+    "monitoring_burden",
+    "trust_repair_burden",
+    "closure_burden"
+  ],
+  "flourishing_impact": {
+    "confidence": "unstable",
+    "cognitive_sustainability": "degraded",
+    "participation": "strained",
+    "workflow_trust": "weakened"
+  },
+  "evidence_strength": "strong",
+  "finding": "AI BURDEN TRANSFER / REBALANCE REQUIRED",
+  "rebalance_recommendation": "Clarify human authority boundaries, improve uncertainty signalling, reduce hidden verification work, strengthen closure confidence, and prevent AI acceleration from redistributing unresolved risk into operators."
+}
