@@ -1,0 +1,63 @@
+{
+  "case_id": "IM-SEN-001",
+  "case_type": "education_sen_support_portal",
+  "system_reviewed": "Online SEN support-plan portal",
+  "claimed_benefit": "Streamlined documentation and review",
+  "visible_completion": "Support plan submitted",
+  "human_context": {
+    "primary_groups": ["child", "parent_carer", "teacher", "SENCO"],
+    "origin_lens": "neurodivergent-rooted hidden burden detection",
+    "protected_note": "This example treats early neurodivergent friction as architecture intelligence, not individual deficit."
+  },
+  "signals": [
+    {
+      "family": "communication",
+      "signal": "repeated context explanation",
+      "description": "Parent repeatedly explains the child’s lived needs across reviews and handoffs."
+    },
+    {
+      "family": "workflow",
+      "signal": "context reconstruction",
+      "description": "Teacher and SENCO reconstruct meaning because the portal does not preserve lived context adequately."
+    },
+    {
+      "family": "governance",
+      "signal": "ownership uncertainty",
+      "description": "Responsibility for preserving context is unclear across parent, teacher, SENCO, and system."
+    },
+    {
+      "family": "temporal",
+      "signal": "repeated burden across review cycles",
+      "description": "The same explanation and evidence repair work reappears after each review."
+    }
+  ],
+  "contextual_interpretation": {
+    "primary_structural_condition": "context_fragmentation",
+    "secondary_conditions": ["ownership_drift", "closure_failure", "participation_strain"],
+    "interpretive_summary": "The portal produces visible documentation completion while redistributing context preservation, explanation, verification, and emotional burden into the human field."
+  },
+  "hidden_compensation_mapping": {
+    "child": ["lived need compressed into administrative fields", "sensory and cognitive burden underrepresented"],
+    "parent_carer": ["repeated explanation", "context repair", "emotional containment", "trust repair"],
+    "teacher": ["translation of lived reality into rigid categories", "workflow repair", "verification burden"],
+    "SENCO": ["missing context verification", "ownership clarification", "review continuity burden"]
+  },
+  "burden_domains": [
+    "context_reconstruction_burden",
+    "interpretive_burden",
+    "verification_burden",
+    "authority_burden",
+    "closure_burden",
+    "trust_repair_burden"
+  ],
+  "flourishing_impact": {
+    "agency": "reduced",
+    "participation": "strained",
+    "confidence": "unstable",
+    "continuity": "weak",
+    "recovery_capacity": "degraded"
+  },
+  "evidence_strength": "strong",
+  "finding": "DISPLACEMENT / REBALANCE REQUIRED",
+  "rebalance_recommendation": "Preserve lived context across review cycles, reduce repeated explanation, clarify ownership for continuity, add sensory/cognitive burden indicators, and prevent administrative completion from replacing actual support."
+}
