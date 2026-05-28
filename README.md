@@ -12,6 +12,8 @@
 
 > Where is the system asking humans to compensate for missing structure?
 
+![Architecture Map](assets/architecture-map.svg)
+
 Some systems do not fail loudly.
 
 They keep moving.
