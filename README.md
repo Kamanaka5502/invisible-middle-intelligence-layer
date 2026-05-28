@@ -1,6 +1,14 @@
 # Invisible Middle Intelligence Layer
 
+![Invisible Middle Intelligence Layer](assets/badge-panel.svg)
+
 **Structural systems intelligence for hidden human compensation, burden transfer, containment instability, and flourishing restoration.**
+
+![Status](https://img.shields.io/badge/status-operational_doctrine-111827?style=for-the-badge)
+![Lens](https://img.shields.io/badge/lens-neurodivergent_rooted-111827?style=for-the-badge)
+![Field](https://img.shields.io/badge/focus-hidden_human_compensation-111827?style=for-the-badge)
+![Category](https://img.shields.io/badge/category-structural_systems_intelligence-111827?style=for-the-badge)
+![Boundary](https://img.shields.io/badge/boundary-public_safe_layer-111827?style=for-the-badge)
 
 > Where is the system asking humans to compensate for missing structure?
 
