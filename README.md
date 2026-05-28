@@ -4,7 +4,40 @@
 
 > Where is the system asking humans to compensate for missing structure?
 
-The Invisible Middle Intelligence Layer detects where systems appear functional on the surface while relying on hidden human compensation underneath.
+Some systems do not fail loudly.
+
+They keep moving.
+
+The dashboard stays green.  
+The workflow completes.  
+The form submits.  
+The AI produces output.  
+The process appears functional.
+
+But underneath, someone is carrying what the system failed to hold.
+
+Someone is checking again.  
+Someone is rebuilding lost context.  
+Someone is translating lived reality into rigid fields.  
+Someone is holding authority without control.  
+Someone is repairing trust after the system quietly destabilised it.  
+Someone is absorbing the cognitive, emotional, interpretive, and nervous-system cost of missing structure.
+
+That hidden zone is the **Invisible Middle**.
+
+The Invisible Middle Intelligence Layer exists to make that zone visible without reducing it.
+
+It is built from Carla Bowley’s Invisible Middle lens and NDPP’s neurodivergent-rooted systems thinking: the recognition that some people feel unsmooth systems earlier because unresolved ambiguity, weak closure, lost context, and unclear authority land directly in the human field before formal failure appears.
+
+This is not a deficit lens.
+
+It is architecture intelligence.
+
+Neurodivergent and high-sensitivity interaction patterns can reveal system instability early, not because the person is the problem, but because the system is asking humans to compensate for what the infrastructure has not contained.
+
+## Core Claim
+
+The Invisible Middle Intelligence Layer detects where systems remain outwardly functional while relying on hidden human compensation underneath.
 
 It does not ask only:
 
@@ -14,13 +47,44 @@ It asks:
 
 > What does this pattern suggest about the structural condition of the surrounding system?
 
-Built from Carla Bowley’s Invisible Middle lens and neurodivergent burden detection, this layer helps identify where organisational, digital, workflow, education, SEN, CRM, workforce, public-service, care, or AI-supported systems ask humans to compensate for missing structure.
+The layer applies across education, SEN, organisational design, edtech, CRMs, workforce systems, public services, care environments, and AI-supported workflows.
+
+## Why This Exists
+
+Modern systems often measure visible completion while missing hidden human cost.
+
+They can show:
+
+- task completion
+- workflow throughput
+- AI output generation
+- dashboard activity
+- submitted forms
+- closed tickets
+- apparent engagement
+
+while people are still carrying:
+
+- repeated checking
+- unresolved interpretation
+- authority without control
+- context reconstruction
+- trust repair
+- monitoring burden
+- closure uncertainty
+- escalation management
+- cognitive strain
+- participation fatigue
+
+The issue is not always visible failure.
+
+The issue is often hidden compensation.
 
 ## Start Here
 
 - **Non-technical readers:** start with `docs/00_START_HERE.md` and `docs/08_BUYER_GUIDE.md`
-- **Practitioners:** review `docs/03_SIGNAL_TAXONOMY.md`, `docs/06_REBALANCE_LOGIC.md`, and `examples/`
-- **Technical reviewers:** inspect `docs/02_ARCHITECTURE.md`, `schemas/`, and `invisible_middle/`
+- **Practitioners:** review `docs/SIGNAL_TAXONOMY_ARCHITECTURE.md`, `docs/REBALANCE_LOGIC.md`, and `examples/`
+- **Technical reviewers:** inspect `docs/ARCHITECTURE.md`, `schemas/`, and `invisible_middle/`
 
 ## Operating Pathway
 
