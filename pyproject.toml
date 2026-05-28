@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invisible-middle-intelligence-layer"
+version = "0.1.0"
+description = "Structural systems intelligence for hidden human compensation, burden transfer, containment instability, and flourishing restoration."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Carla Bowley / NDPP" },
+  { name = "Elyria Systems / VA" }
+]
+keywords = [
+  "invisible-middle",
+  "systems-intelligence",
+  "human-compensation",
+  "burden-transfer",
+  "flourishing",
+  "ai-oversight",
+  "workflow-intelligence",
+  "neurodiversity"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: Other/Proprietary License",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering :: Human Machine Interfaces",
+  "Topic :: Office/Business"
+]
+
+[project.scripts]
+invisible-middle = "invisible_middle.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
