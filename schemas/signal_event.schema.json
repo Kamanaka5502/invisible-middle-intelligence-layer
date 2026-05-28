@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/invisible-middle/signal_event.schema.json",
+  "title": "Invisible Middle Signal Event",
+  "type": "object",
+  "required": ["case_id", "signal_id", "family", "signal", "description"],
+  "properties": {
+    "case_id": {"type": "string"},
+    "signal_id": {"type": "string"},
+    "family": {
+      "type": "string",
+      "enum": ["behavioural", "workflow", "communication", "ai_interaction", "governance", "temporal", "system", "human_reported"]
+    },
+    "signal": {"type": "string"},
+    "description": {"type": "string"},
+    "observed_at": {"type": "string"},
+    "role_or_carrier": {"type": "string"},
+    "context_notes": {"type": "string"},
+    "evidence_strength": {
+      "type": "string",
+      "enum": ["informational", "emerging", "moderate", "strong", "critical"]
+    }
+  },
+  "additionalProperties": true
+}
