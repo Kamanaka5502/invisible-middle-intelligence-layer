@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/invisible-middle/dashboard_snapshot.schema.json",
+  "title": "Invisible Middle Dashboard Snapshot",
+  "type": "object",
+  "required": ["case_id", "primary_finding", "signal_families", "structural_conditions"],
+  "properties": {
+    "case_id": {"type": "string"},
+    "system_reviewed": {"type": "string"},
+    "primary_finding": {"type": "string"},
+    "secondary_finding": {"type": "string"},
+    "signal_families": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "structural_conditions": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "burden_carriers": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "burden_domains": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "flourishing_impacts": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "evidence_strength": {
+      "type": "string",
+      "enum": ["informational", "emerging", "moderate", "strong", "critical"]
+    },
+    "recommended_response": {"type": "string"}
+  },
+  "additionalProperties": true
+}
